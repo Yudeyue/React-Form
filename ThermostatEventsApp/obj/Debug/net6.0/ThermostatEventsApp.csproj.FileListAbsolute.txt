@@ -1,0 +1,15 @@
+D:\Metropolia.NET\ThermostatEventsApp\obj\Debug\net6.0\ThermostatEventsApp.csproj.AssemblyReference.cache
+D:\Metropolia.NET\ThermostatEventsApp\obj\Debug\net6.0\ThermostatEventsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Metropolia.NET\ThermostatEventsApp\obj\Debug\net6.0\ThermostatEventsApp.AssemblyInfoInputs.cache
+D:\Metropolia.NET\ThermostatEventsApp\obj\Debug\net6.0\ThermostatEventsApp.AssemblyInfo.cs
+D:\Metropolia.NET\ThermostatEventsApp\obj\Debug\net6.0\ThermostatEventsApp.csproj.CoreCompileInputs.cache
+D:\Metropolia.NET\ThermostatEventsApp\bin\Debug\net6.0\ThermostatEventsApp.exe
+D:\Metropolia.NET\ThermostatEventsApp\bin\Debug\net6.0\ThermostatEventsApp.deps.json
+D:\Metropolia.NET\ThermostatEventsApp\bin\Debug\net6.0\ThermostatEventsApp.runtimeconfig.json
+D:\Metropolia.NET\ThermostatEventsApp\bin\Debug\net6.0\ThermostatEventsApp.dll
+D:\Metropolia.NET\ThermostatEventsApp\bin\Debug\net6.0\ThermostatEventsApp.pdb
+D:\Metropolia.NET\ThermostatEventsApp\obj\Debug\net6.0\ThermostatEventsApp.dll
+D:\Metropolia.NET\ThermostatEventsApp\obj\Debug\net6.0\refint\ThermostatEventsApp.dll
+D:\Metropolia.NET\ThermostatEventsApp\obj\Debug\net6.0\ThermostatEventsApp.pdb
+D:\Metropolia.NET\ThermostatEventsApp\obj\Debug\net6.0\ThermostatEventsApp.genruntimeconfig.cache
+D:\Metropolia.NET\ThermostatEventsApp\obj\Debug\net6.0\ref\ThermostatEventsApp.dll
